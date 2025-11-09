@@ -1,4 +1,4 @@
-# system_monitor_wipro# 🖥️ System Monitor Tool
+# system_monitor_wipro
 
 A **real-time system monitoring application** built in **C++** that displays CPU usage, memory utilization, and running processes — similar to the Linux `top` command.  
 This version is designed to run smoothly on **windows**, using **ncurses** for a terminal-based UI.
